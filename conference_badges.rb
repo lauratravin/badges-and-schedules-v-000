@@ -20,7 +20,7 @@ def assign_rooms(attendees)
   new_arr
 end
 def printer(attendees)
-
+     array1 = []
      array1 <<  batch_badge_creator(attendees)
      array1.each do |array1|
         puts #{array1}
