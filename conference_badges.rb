@@ -27,10 +27,10 @@ def printer(attendees)
       end
 
 
-     array2 =  assign_rooms(attendees)
-     array2.each do |array2|
-          puts #{array2}
-      end
+    #  array2 =  assign_rooms(attendees)
+    #  array2.each do |array2|
+    #       puts #{array2}
+    #   end
 
 
 end
